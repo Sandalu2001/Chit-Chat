@@ -7,5 +7,7 @@ target 'Chit ChatiOS13' do
   pod 'FirebaseAuth'
   pod 'FirebaseFirestore'
   pod 'CLTypingLabel', '~> 0.4.0'
+  pod 'IQKeyboardManagerSwift'
+
 
 end
